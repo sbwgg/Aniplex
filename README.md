@@ -2,20 +2,20 @@ animixplay.to-anime-stream-api
 
 Near the end of 2016, after checking popular free anime streaming sites, we found most sites lacked a good user interface (UI) and did not provide a good user experience (UX). So, our product development team created Animixplay to provide anime fans with a better one.
 
-#Animixplay - Redefine the best website to watch anime online for free
+<h1>Animixplay - Redefine the best website to watch anime online for free</h1>
 
 Nearly 6 years later we decided to rewrite all of Animixplay again. Our goal is to take Animixplay to the next level.
 
-##1/ What's Animixplay?
+<h2>1/ What's Animixplay?</h2>
 Animixplay is an anime streaming site where you can watch anime online in HD quality for free with English subtitles or dubbing. You can also download any anime you want without registration or payment required. Everything is free!
 
-##2/ Is Animixplay safe?
-Yes. We started this site to improve UX and are committed to keeping our users safe. We encourage all our users to notify us if anything looks suspicious. Please understand that we do have to run advertisements to maintain the site.
+<h2>Is Animixplay safe?</h2> 
+Yes. We started this site to improve UX and are committed to keeping our users safe. We encourage all our users to notify us if anything looks suspicious. Please understand that we do have to run advertisements to maintain the site!
 
-##3/ What's real Animixplay?
+<h2>What's real Animixplay?</h2> 
 There are many fake/clones of Animixplay sites. These sites may collect your information without consent. Please make sure you use <a href="https://animixplay.fun">Animixplay</a> or some mirrors listed on our sub reddit (check here).
 
-##4/ What make Animixplay the best site to watch anime free online?
+<h2>What make Animixplay the best site to watch anime free online?</h2>
 - Content library: We were only a few hundred of old animes behind kisanime when it was around. We have been adding new and old animes every hour to our library. You can find almost everything here. After the closing of kissanime, we become the largest anime library on the web.
 
 - Streaming experience: We have top of the line streaming servers. You can simply choose one that is fast for you.
